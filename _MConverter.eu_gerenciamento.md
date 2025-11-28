@@ -6,30 +6,51 @@ Prioridade Preemptiva) e demonstrações de concorrência utilizando
 Python.
 
 ## 1. Estrutura do Projeto {#estrutura-do-projeto}
+**Arquivos:** main.py
 
-- **Arquivos:** main.py
-- **Conteúdo:** Código-fonte principal. Contém a lógica de escalonamento, simulação de threads e demonstrações de concorrência.
-- **Parte do Trabalho:** A,B,C
+**Conteúdo:** Código-fonte principal. Contém a lógica de escalonamento, simulação de threads e demonstrações de concorrência.
 
-- **Arquivos:** processos.csv
-- **Conteúdo:** Arquivo de entrada com PID, tempo de chegada, burst time e prioridade dos processos.
-- **Parte do Trabalho:** Entrada (A)
+**Parte do Trabalho:** A,B,C
 
-- **Arquivos:** README.md
-- **Conteúdo:** Este manual de instruções.
-- **Parte do Trabalho:** Entregável
+---
 
-- **Arquivos:** Relatorio.md
-- **Conteúdo:** Relatório técnico detalhado sobre a implementação, métricas e análise.
-- **Parte do Trabalho:** Entregável (D)
+**Arquivos:** processos.csv
 
-- **Arquivos:** output_rr.txt
-- **Conteúdo:** Log de Saída (Gerado na execução da Parte A).
-- **Parte do Trabalho:** Saída de Teste
+**Conteúdo:** Arquivo de entrada com PID, tempo de chegada, burst time e prioridade dos processos.
 
-- **Arquivos:** output_priority.txt
-- **Conteúdo:** Log de Saída (Gerado na execução da Parte A).
-- **Parte do Trabalho:** Saída de Teste
+**Parte do Trabalho:** Entrada (A)
+
+---
+
+**Arquivos:** README.md
+
+**Conteúdo:** Este manual de instruções.
+
+**Parte do Trabalho:** Entregável
+
+---
+
+**Arquivos:** Relatorio.md
+
+**Conteúdo:** Relatório técnico detalhado sobre a implementação, métricas e análise.
+
+**Parte do Trabalho:** Entregável (D)
+
+---
+
+**Arquivos:** output_rr.txt
+
+**Conteúdo:** Log de Saída (Gerado na execução da Parte A).
+
+**Parte do Trabalho:** Saída de Teste
+
+---
+
+**Arquivos:** output_priority.txt
+
+**Conteúdo:** Log de Saída (Gerado na execução da Parte A).
+
+**Parte do Trabalho:** Saída de Teste
 
 ## 2. Pré-requisitos {#pré-requisitos}
 
